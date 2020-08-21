@@ -1,0 +1,13 @@
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\bin\Debug\smart-validator.exe.config
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\bin\Debug\smart-validator.exe
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\bin\Debug\smart-validator.pdb
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart-validator.csprojResolveAssemblyReference.cache
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart_validator.Form1.resources
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart_validator.Properties.Resources.resources
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart-validator.csproj.GenerateResource.Cache
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart-validator.exe
+c:\users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart-validator.pdb
+C:\Users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\bin\Debug\Kavenegar.dll
+C:\Users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alireza\documents\visual studio 2015\Projects\smart-validator\smart-validator\obj\Debug\smart_validator.Form2.resources
